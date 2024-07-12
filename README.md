@@ -25,7 +25,7 @@
 - **Code Editor:** PyCharm version 2024.1.1
 - **Python:** 3.13.3
 
-All project files are organized in one folder: `PT_Sukses_Solusindo_Digital`.
+All project files are organized in one folder: `DBE_PT_Sukses_Solusindo_Digital`.
 
 ---
 
